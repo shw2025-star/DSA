@@ -7,3 +7,5 @@ Topics:
 -Hashing
 -Two pointers
 -Sliding Window
+
+Currently practicing DSA and Codeforces
