@@ -1,4 +1,4 @@
-#DSA
+\#DSA
 
 My DSA practice and problem-solving journey.
 
@@ -9,3 +9,6 @@ Topics:
 -Sliding Window
 
 Currently practicing DSA and Codeforces
+
+Currently practising Two pointers and Sliding Window
+
