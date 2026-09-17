@@ -10,5 +10,5 @@ Topics:
 
 Currently practicing DSA and Codeforces
 
-Currently practising Two pointers and Sliding Window
+Currently practising Two pointers and Sliding Windows
 
